@@ -29,4 +29,4 @@ For questions or further discussion, please contact:
 **LinkedIn**: [www.linkedin.com/in/axatsngh](https://www.linkedin.com/in/axatsngh)
 
 ## Keywords
-Decision Support System, Uncertainty Modeling, Machine Learning, Kernel Density Estimation, Dempster-Shafer Theory, Prospect Theory, UCI Datasets, Python, Classification.
+Three-way decision-making, Dempster–Shafer theory, Prospect theory, Uncertainty representation, Gaussian kernel, Risk attitude
