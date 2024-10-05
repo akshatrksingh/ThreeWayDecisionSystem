@@ -26,7 +26,7 @@ The research has been published in the journal *Knowledge and Information System
 ## Contact
 For questions or further discussion, please contact:  
 **Akshat Singh** - as20255@nyu.edu  
-**LinkedIn**: [www.linkedin.com/in/axatsngh](www.linkedin.com/in/axatsngh)
+**LinkedIn**: [www.linkedin.com/in/axatsngh](https://www.linkedin.com/in/axatsngh)
 
 ## Keywords
 Decision Support System, Uncertainty Modeling, Machine Learning, Kernel Density Estimation, Dempster-Shafer Theory, Prospect Theory, UCI Datasets, Python, Classification.
